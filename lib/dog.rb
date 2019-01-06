@@ -1,7 +1,7 @@
 class Dog
   
-  def breed= (breed_name)
-    @breed = breed_name
+  def breed= (new_breed)
+    @breed = new_breed
   end
   
   def breed
